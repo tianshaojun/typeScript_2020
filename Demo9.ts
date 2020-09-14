@@ -47,6 +47,7 @@ const getResume = (gril: Teacher) => {   //Gril
     console.log(gril.name+'体重是:'+gril.bust);
     gril.waistline && console.log(gril.name+'腰围是:'+gril.waistline);
     gril.sex && console.log(gril.name+'性别是:'+gril.sex);
+    console.log(gril.teach());
 }
 
 screenResume(gril);

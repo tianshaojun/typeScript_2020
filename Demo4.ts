@@ -22,7 +22,7 @@ function getTotal(one: number, two: number) {
     return one + two;
 }
 const total = getTotal(1,2);
-console.log(total);
+// console.log(total);
 
 // ts也可以推断出对象中属性的类型
 const obj = {

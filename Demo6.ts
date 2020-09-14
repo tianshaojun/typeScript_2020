@@ -1,6 +1,6 @@
 // 一般数组类型的定义
 const numberArr: number[] = [1,2,3];
-const stringArr: string[] = ['a','b','c'];
+const stringArr: String[] = ['a','b','c'];
 const undefinedArr: undefined[] = [undefined,undefined];
 const arr: (number|string)[] = [1,'string',2];
 
