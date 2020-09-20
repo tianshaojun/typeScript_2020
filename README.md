@@ -56,6 +56,13 @@
 + 类的重写
 + super关键字
 
+### 11.Demo11.ts
+
++ 类的访问类型
+  + public访问属性讲解
+  + private访问属性讲解
+  + protected访问属性讲解
+
 
 
  
