@@ -67,6 +67,11 @@
 
 类的构造函数
 
+### 13.Demo13.ts
+
+类的Getter、Setter和static使用
+
+
 
 
 
