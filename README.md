@@ -100,10 +100,10 @@
 
 + 联合类型
 + 类型保护
- + 类型断言
- + in语法
- + typeof语法
- + instanceof语法(instanceof 只能用在类上)
+  + 类型断言
+  + in语法
+  + typeof语法
+  + instanceof语法(instanceof 只能用在类上)
  
  ### 19.Demo19.ts
  
