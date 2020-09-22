@@ -86,6 +86,8 @@
 + files
   "files":["demo.ts"]     只编译demo.ts文件
 + strict:true  代表编译和书写规范，要按照TypeScript最严格的规范来写
++ noImplicitAny   允许你的注解类型any不用特意声明，设置为false，不会报错;设置为true,就算值是any类型，你也要进行类型注解
+
 
 
  
