@@ -76,6 +76,15 @@
 + 只读属性
 + 抽象类
 
+### 15.tsconfig.json
+
++ removeComments:true   编译时不显示注释，也就是编译出来的js文件不显示注释内容
++ include
++ exclude
++ files
+
+ 
+
 
 
 
