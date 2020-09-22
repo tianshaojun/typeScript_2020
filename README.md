@@ -78,17 +78,28 @@
 
 ### 15.tsconfig.json
 
-+ removeComments:true   编译时不显示注释，也就是编译出来的js文件不显示注释内容
++ "removeComments":true   编译时不显示注释，也就是编译出来的js文件不显示注释内容
 + include
   "include":["demo.ts"]   只编译demo.ts文件
 + exclude
   "exclude":["demo.ts"]   demo.ts文件除外，其他的都进行编译
 + files
   "files":["demo.ts"]     只编译demo.ts文件
-+ strict:true  代表编译和书写规范，要按照TypeScript最严格的规范来写
++ "strict":true  代表编译和书写规范，要按照TypeScript最严格的规范来写
 + noImplicitAny   允许你的注解类型any不用特意声明，设置为false，不会报错;设置为true,就算值是any类型，你也要进行类型注解
 + "strictNullChecks":false   不强制检查null类型
++ "rootDir":"./src"   源文件目录
++ "outDir":"./build"  编译后的文件目录
++ "target":'es5'   编译es6语法到es5语法
++ "allowJs":true   允许js文件被编译
++ "sourceMap":true  生成sourceMap文件
++ "noUnusedLocals":true   不允许编译没有使用的变量
++ "noUnusedParameters:true"  不允许编译没有使用的方法
 
+### 18.Demo18.ts
+
+1111
+ 
 
 
 
