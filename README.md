@@ -71,6 +71,12 @@
 
 类的Getter、Setter和static使用
 
+ ### 14.Demo14.ts
+ 
++ 只读属性
++ 抽象类
+
+
 
 
 
