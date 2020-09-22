@@ -85,6 +85,8 @@
   "exclude":["demo.ts"]   demo.ts文件除外，其他的都进行编译
 + files
   "files":["demo.ts"]     只编译demo.ts文件
++ strict:true  代表编译和书写规范，要按照TypeScript最严格的规范来写
+
 
  
 
