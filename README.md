@@ -80,8 +80,11 @@
 
 + removeComments:true   编译时不显示注释，也就是编译出来的js文件不显示注释内容
 + include
+  "include":["demo.ts"]   只编译demo.ts文件
 + exclude
+  "exclude":["demo.ts"]   demo.ts文件除外，其他的都进行编译
 + files
+  "files":["demo.ts"]     只编译demo.ts文件
 
  
 
