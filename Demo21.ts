@@ -39,17 +39,5 @@ const selectGril = new SelectGirl([
     {name:'刘英'},
     {name:'晓红'},
 ]);
-console.log(selectGril.getGirl(1)); 
 
-
- 
-
-
-
-
-
-
- 
- 
-
-
+console.log(selectGril.getGirl(1));
