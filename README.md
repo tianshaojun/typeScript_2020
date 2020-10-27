@@ -116,6 +116,13 @@
  ### 21.Demo21.ts
  
  类中泛型
+ 
+ ### TsWeb
+ 
+ namespace 命名空间
+ 
+ 
+ 
 
  
  
