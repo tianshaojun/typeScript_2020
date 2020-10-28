@@ -1,4 +1,4 @@
-26051
+26049
 92F:\jspang\typeScript_2020\TSTest\node_modules\@babel\plugin-transform-react-pure-annotations132483363611978106 1
 97F:\jspang\typeScript_2020\TSTest\node_modules\object-is\node_modules\es-abstract\2017\ToUint32.js121436361000000000 0
 71F:\jspang\typeScript_2020\TSTest\node_modules\csso\lib\clean\Comment.js121436361000000000 0
@@ -40,7 +40,7 @@
 113F:\jspang\typeScript_2020\TSTest\node_modules\string.prototype.trimend\node_modules\es-abstract\2016\SameValue.js121436361000000000 0
 107F:\jspang\typeScript_2020\TSTest\node_modules\string.prototype.trimend\node_modules\es-abstract\2017\Set.js121436361000000000 0
 102F:\jspang\typeScript_2020\TSTest\node_modules\postcss-merge-rules\node_modules\postcss\lib\tokenize.js121436361000000000 0
-37F:\jspang\typeScript_2020\TSTest\dist132483364303048420 1
+37F:\jspang\typeScript_2020\TSTest\dist132483370200721994 1
 50F:\jspang\typeScript_2020\TSTest\package-lock.json132483363792088507 0
 96F:\jspang\typeScript_2020\TSTest\node_modules\postcss-calc\node_modules\postcss\lib\warn-once.js121436361000000000 0
 74F:\jspang\typeScript_2020\TSTest\node_modules\is-data-descriptor\README.md130957661800000000 0
@@ -1801,7 +1801,7 @@
 60F:\jspang\typeScript_2020\TSTest\node_modules\yaml\scalar.js121436361000000000 0
 72F:\jspang\typeScript_2020\TSTest\node_modules\har-validator\lib\error.js121436361000000000 0
 101F:\jspang\typeScript_2020\TSTest\node_modules\stylehacks\node_modules\postcss\lib\css-syntax-error.js121436361000000000 0
-59F:\jspang\typeScript_2020\TSTest\dist\index.db1455e9.js.map132483364303018331 0
+59F:\jspang\typeScript_2020\TSTest\dist\index.db1455e9.js.map132483370200701916 0
 135F:\jspang\typeScript_2020\TSTest\node_modules\postcss-minify-selectors\node_modules\postcss-selector-parser\dist\selectors\className.js121436361000000000 0
 97F:\jspang\typeScript_2020\TSTest\node_modules\object-is\node_modules\es-abstract\2020\ToObject.js121436361000000000 0
 84F:\jspang\typeScript_2020\TSTest\node_modules\rxjs\internal\scheduler\AsyncAction.js121436361000000000 0
@@ -4208,7 +4208,7 @@
 69F:\jspang\typeScript_2020\TSTest\node_modules\rxjs\operators\every.js121436361000000000 0
 69F:\jspang\typeScript_2020\TSTest\node_modules\is-callable\.travis.yml121436361000000000 0
 76F:\jspang\typeScript_2020\TSTest\node_modules\uri-js\dist\esnext\util.js.map121436361000000000 0
-55F:\jspang\typeScript_2020\TSTest\dist\index.db1455e9.js132483364302948147 0
+55F:\jspang\typeScript_2020\TSTest\dist\index.db1455e9.js132483370200620477 0
 98F:\jspang\typeScript_2020\TSTest\node_modules\uncss\node_modules\postcss-selector-parser\README.md121436361000000000 0
 103F:\jspang\typeScript_2020\TSTest\node_modules\@parcel\core\test\fixtures\duplicate-targets\package.json121436361000000000 0
 108F:\jspang\typeScript_2020\TSTest\node_modules\string.prototype.trimend\node_modules\es-abstract\2020\Call.js121436361000000000 0
@@ -13362,7 +13362,6 @@
 107F:\jspang\typeScript_2020\TSTest\node_modules\object-is\node_modules\es-abstract\2017\SpeciesConstructor.js121436361000000000 0
 80F:\jspang\typeScript_2020\TSTest\node_modules\highlight.js\lib\languages\lisp.js131406724530000000 0
 74F:\jspang\typeScript_2020\TSTest\node_modules\rxjs\add\observable\throw.js121436361000000000 0
-58F:\jspang\typeScript_2020\TSTest\dist\page.878bf352.js.map132483291114931171 0
 76F:\jspang\typeScript_2020\TSTest\node_modules\rxjs\add\observable\timer.d.ts121436361000000000 0
 89F:\jspang\typeScript_2020\TSTest\node_modules\postcss-merge-longhand\dist\lib\getValue.js121436361000000000 0
 74F:\jspang\typeScript_2020\TSTest\node_modules\rxjs\add\observable\timer.js121436361000000000 0
@@ -25761,7 +25760,7 @@
 93F:\jspang\typeScript_2020\TSTest\node_modules\@babel\plugin-transform-computed-properties\lib132483362834378427 1
 99F:\jspang\typeScript_2020\TSTest\node_modules\@babel\plugin-transform-computed-properties\README.md121012626000000000 0
 85F:\jspang\typeScript_2020\TSTest\node_modules\@babel\plugin-transform-classes\LICENSE121012626000000000 0
-48F:\jspang\typeScript_2020\TSTest\dist\index.html132483364302887996 0
+48F:\jspang\typeScript_2020\TSTest\dist\index.html132483370200590394 0
 77F:\jspang\typeScript_2020\TSTest\node_modules\@babel\core\lib\config\index.js121012626000000000 0
 90F:\jspang\typeScript_2020\TSTest\node_modules\@babel\plugin-transform-classes\package.json132483363604859163 0
 87F:\jspang\typeScript_2020\TSTest\node_modules\@babel\plugin-transform-classes\README.md121012626000000000 0
@@ -26049,4 +26048,3 @@
 61F:\jspang\typeScript_2020\TSTest\node_modules\.bin\terser.ps1132483363766488257 0
 60F:\jspang\typeScript_2020\TSTest\node_modules\.bin\uncss.ps1132483363767426529 0
 59F:\jspang\typeScript_2020\TSTest\node_modules\.bin\uuid.cmd132483363766979635 0
-54F:\jspang\typeScript_2020\TSTest\dist\page.878bf352.js132483291114830905 0
