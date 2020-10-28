@@ -117,9 +117,12 @@
  
  类中泛型
  
- ### 22-23.TsWeb
+ ### 22-23-24.TsWeb
  
- namespace 命名空间
+ + Namespace 命名空间
+ + TypeScript使用import语法
+ 
+ 
  
  
  
