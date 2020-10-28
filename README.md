@@ -122,6 +122,13 @@
  + Namespace 命名空间
  + TypeScript使用import语法
  
+ ### 25-26.TSTest
+ 
+ + 用parcel打包TypeScript代码
+ + 在TypeScript中使用jQuery
+ 
+ 
+ 
  
  
  
