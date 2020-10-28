@@ -1,4 +1,4 @@
-26049
+26067
 92F:\jspang\typeScript_2020\TSTest\node_modules\@babel\plugin-transform-react-pure-annotations132483363611978106 1
 97F:\jspang\typeScript_2020\TSTest\node_modules\object-is\node_modules\es-abstract\2017\ToUint32.js121436361000000000 0
 71F:\jspang\typeScript_2020\TSTest\node_modules\csso\lib\clean\Comment.js121436361000000000 0
@@ -26,7 +26,7 @@
 79F:\jspang\typeScript_2020\TSTest\node_modules\@babel\runtime\helpers\toArray.js121012626000000000 0
 70F:\jspang\typeScript_2020\TSTest\node_modules\rxjs\src\operator\map.ts121436361000000000 0
 38F:\jspang\typeScript_2020\TSTest\build132483275495596038 1
-45F:\jspang\typeScript_2020\TSTest\package.json132483363789620010 0
+45F:\jspang\typeScript_2020\TSTest\package.json132483383177656172 0
 74F:\jspang\typeScript_2020\TSTest\node_modules\@types\parse-json\index.d.ts131550930030000000 0
 65F:\jspang\typeScript_2020\TSTest\node_modules\encodeurl\README.md131610625150000000 0
 85F:\jspang\typeScript_2020\TSTest\node_modules\rxjs\internal\operators\throttle.js.map121436361000000000 0
@@ -40,8 +40,8 @@
 113F:\jspang\typeScript_2020\TSTest\node_modules\string.prototype.trimend\node_modules\es-abstract\2016\SameValue.js121436361000000000 0
 107F:\jspang\typeScript_2020\TSTest\node_modules\string.prototype.trimend\node_modules\es-abstract\2017\Set.js121436361000000000 0
 102F:\jspang\typeScript_2020\TSTest\node_modules\postcss-merge-rules\node_modules\postcss\lib\tokenize.js121436361000000000 0
-37F:\jspang\typeScript_2020\TSTest\dist132483370200721994 1
-50F:\jspang\typeScript_2020\TSTest\package-lock.json132483363792088507 0
+37F:\jspang\typeScript_2020\TSTest\dist132483396707925399 1
+50F:\jspang\typeScript_2020\TSTest\package-lock.json132483383179997400 0
 96F:\jspang\typeScript_2020\TSTest\node_modules\postcss-calc\node_modules\postcss\lib\warn-once.js121436361000000000 0
 74F:\jspang\typeScript_2020\TSTest\node_modules\is-data-descriptor\README.md130957661800000000 0
 89F:\jspang\typeScript_2020\TSTest\node_modules\caniuse-lite\data\features\css-boxshadow.js121436361000000000 0
@@ -53,7 +53,7 @@
 82F:\jspang\typeScript_2020\TSTest\node_modules\rxjs\internal\observable\from.js.map121436361000000000 0
 80F:\jspang\typeScript_2020\TSTest\node_modules\wrap-ansi\node_modules\ansi-styles132483363580800269 1
 76F:\jspang\typeScript_2020\TSTest\node_modules\rxjs\src\add\operator\mapTo.ts121436361000000000 0
-45F:\jspang\typeScript_2020\TSTest\node_modules132483363785581948 1
+45F:\jspang\typeScript_2020\TSTest\node_modules132483394141979473 1
 67F:\jspang\typeScript_2020\TSTest\node_modules\ajv\lib\dot\items.jst121436361000000000 0
 62F:\jspang\typeScript_2020\TSTest\node_modules\type-fest\source132483362910288350 1
 84F:\jspang\typeScript_2020\TSTest\node_modules\source-map\lib\source-map-generator.js131508293880000000 0
@@ -70,7 +70,7 @@
 88F:\jspang\typeScript_2020\TSTest\node_modules\rxjs\_esm5\internal\symbol\rxSubscriber.js121436361000000000 0
 67F:\jspang\typeScript_2020\TSTest\node_modules\rxjs\fetch\index.d.ts121436361000000000 0
 119F:\jspang\typeScript_2020\TSTest\node_modules\string.prototype.trimstart\node_modules\es-abstract\2016\IteratorClose.js121436361000000000 0
-36F:\jspang\typeScript_2020\TSTest\src132483278832232241 1
+36F:\jspang\typeScript_2020\TSTest\src132483395110494091 1
 58F:\jspang\typeScript_2020\TSTest\node_modules\svgo\LICENSE121436361000000000 0
 66F:\jspang\typeScript_2020\TSTest\node_modules\word-wrap\index.d.ts131302624480000000 0
 117F:\jspang\typeScript_2020\TSTest\node_modules\postcss-unique-selectors\node_modules\postcss\lib\terminal-highlight.js121436361000000000 0
@@ -105,7 +105,7 @@
 52F:\jspang\typeScript_2020\TSTest\node_modules\pbkdf2132483363586760596 1
 105F:\jspang\typeScript_2020\TSTest\node_modules\@parcel\transformer-json\node_modules\json5\lib\register.js121436361000000000 0
 70F:\jspang\typeScript_2020\TSTest\node_modules\resolve-url\changelog.md130378275980000000 0
-47F:\jspang\typeScript_2020\TSTest\src\index.html132483278988031400 0
+47F:\jspang\typeScript_2020\TSTest\src\index.html132483395153925003 0
 122F:\jspang\typeScript_2020\TSTest\node_modules\string.prototype.trimend\node_modules\es-abstract\2016\EnumerableOwnNames.js121436361000000000 0
 100F:\jspang\typeScript_2020\TSTest\node_modules\postcss-svgo\node_modules\postcss-value-parser\LICENSE121436361000000000 0
 74F:\jspang\typeScript_2020\TSTest\node_modules\rxjs\operators\distinct.d.ts121436361000000000 0
@@ -127,7 +127,7 @@
 97F:\jspang\typeScript_2020\TSTest\node_modules\rxjs\internal\observable\SubscribeOnObservable.d.ts121436361000000000 0
 57F:\jspang\typeScript_2020\TSTest\node_modules\resolve-url132483363636128003 1
 75F:\jspang\typeScript_2020\TSTest\node_modules\rxjs\operators\windowCount.js121436361000000000 0
-44F:\jspang\typeScript_2020\TSTest\src\page.ts132483364300926343 0
+44F:\jspang\typeScript_2020\TSTest\src\page.ts132483395340700155 0
 63F:\jspang\typeScript_2020\TSTest\node_modules\component-emitter132483363743747636 1
 109F:\jspang\typeScript_2020\TSTest\node_modules\object-is\node_modules\es-abstract\2015\IsAccessorDescriptor.js121436361000000000 0
 104F:\jspang\typeScript_2020\TSTest\node_modules\@parcel\transformer-json\node_modules\json5\lib\require.js121436361000000000 0
@@ -240,7 +240,7 @@
 72F:\jspang\typeScript_2020\TSTest\node_modules\rxjs\add\operator\max.d.ts121436361000000000 0
 92F:\jspang\typeScript_2020\TSTest\node_modules\rxjs\_esm2015\internal\observable\fromArray.js121436361000000000 0
 80F:\jspang\typeScript_2020\TSTest\node_modules\html-encoding-sniffer\package.json132483363581883185 0
-52F:\jspang\typeScript_2020\TSTest\node_modules\@types132483363504100730 1
+52F:\jspang\typeScript_2020\TSTest\node_modules\@types132483394141417962 1
 88F:\jspang\typeScript_2020\TSTest\node_modules\postcss-convert-values\dist\lib\convert.js121436361000000000 0
 56F:\jspang\typeScript_2020\TSTest\node_modules\ejs\ejs.js132186645850000000 0
 109F:\jspang\typeScript_2020\TSTest\node_modules\lint-staged\node_modules\cosmiconfig\dist\cacheWrapper.d.ts.map121436361000000000 0
@@ -808,6 +808,7 @@
 79F:\jspang\typeScript_2020\TSTest\node_modules\@parcel\babylon-walk\src\index.js121436361000000000 0
 81F:\jspang\typeScript_2020\TSTest\node_modules\rxjs\_esm5\internal\Subscription.js121436361000000000 0
 76F:\jspang\typeScript_2020\TSTest\node_modules\rxjs\add\observable\range.d.ts121436361000000000 0
+69F:\jspang\typeScript_2020\TSTest\node_modules\@types\sizzle\README.md131833326620000000 0
 59F:\jspang\typeScript_2020\TSTest\node_modules\has\README.md121436361000000000 0
 99F:\jspang\typeScript_2020\TSTest\node_modules\string.prototype.trimstart\node_modules\es-abstract\5132483363433379618 1
 74F:\jspang\typeScript_2020\TSTest\node_modules\postcss-normalize-whitespace132483363615128281 1
@@ -1801,7 +1802,7 @@
 60F:\jspang\typeScript_2020\TSTest\node_modules\yaml\scalar.js121436361000000000 0
 72F:\jspang\typeScript_2020\TSTest\node_modules\har-validator\lib\error.js121436361000000000 0
 101F:\jspang\typeScript_2020\TSTest\node_modules\stylehacks\node_modules\postcss\lib\css-syntax-error.js121436361000000000 0
-59F:\jspang\typeScript_2020\TSTest\dist\index.db1455e9.js.map132483370200701916 0
+59F:\jspang\typeScript_2020\TSTest\dist\index.db1455e9.js.map132483396707915384 0
 135F:\jspang\typeScript_2020\TSTest\node_modules\postcss-minify-selectors\node_modules\postcss-selector-parser\dist\selectors\className.js121436361000000000 0
 97F:\jspang\typeScript_2020\TSTest\node_modules\object-is\node_modules\es-abstract\2020\ToObject.js121436361000000000 0
 84F:\jspang\typeScript_2020\TSTest\node_modules\rxjs\internal\scheduler\AsyncAction.js121436361000000000 0
@@ -1813,6 +1814,7 @@
 123F:\jspang\typeScript_2020\TSTest\node_modules\string.prototype.trimstart\node_modules\es-abstract\5\IsPropertyDescriptor.js121436361000000000 0
 119F:\jspang\typeScript_2020\TSTest\node_modules\postcss-minify-font-values\node_modules\postcss\docs\guidelines\plugin.md121436361000000000 0
 104F:\jspang\typeScript_2020\TSTest\node_modules\rxjs\_esm2015\internal\scheduled\scheduleObservable.js.map121436361000000000 0
+59F:\jspang\typeScript_2020\TSTest\node_modules\@types\sizzle132483383173378522 1
 78F:\jspang\typeScript_2020\TSTest\node_modules\core-js\stable\typed-array\of.js121436361000000000 0
 49F:\jspang\typeScript_2020\TSTest\node_modules\has132483363709685422 1
 86F:\jspang\typeScript_2020\TSTest\node_modules\connect\node_modules\debug\karma.conf.js131419593830000000 0
@@ -3027,6 +3029,7 @@
 109F:\jspang\typeScript_2020\TSTest\node_modules\string.prototype.trimstart\node_modules\es-abstract\2016\Get.js121436361000000000 0
 102F:\jspang\typeScript_2020\TSTest\node_modules\regenerate-unicode-properties\Script_Extensions\Runic.js121436361000000000 0
 112F:\jspang\typeScript_2020\TSTest\node_modules\@parcel\transformer-posthtml\node_modules\posthtml-parser\index.js121436361000000000 0
+69F:\jspang\typeScript_2020\TSTest\node_modules\@types\jquery\misc.d.ts132469983410000000 0
 60F:\jspang\typeScript_2020\TSTest\node_modules\semver-compare132483363632083285 1
 88F:\jspang\typeScript_2020\TSTest\node_modules\postcss-selector-parser\dist\tokenTypes.js121436361000000000 0
 55F:\jspang\typeScript_2020\TSTest\node_modules\set-value132483363626345038 1
@@ -4208,7 +4211,7 @@
 69F:\jspang\typeScript_2020\TSTest\node_modules\rxjs\operators\every.js121436361000000000 0
 69F:\jspang\typeScript_2020\TSTest\node_modules\is-callable\.travis.yml121436361000000000 0
 76F:\jspang\typeScript_2020\TSTest\node_modules\uri-js\dist\esnext\util.js.map121436361000000000 0
-55F:\jspang\typeScript_2020\TSTest\dist\index.db1455e9.js132483370200620477 0
+55F:\jspang\typeScript_2020\TSTest\dist\index.db1455e9.js132483396707835165 0
 98F:\jspang\typeScript_2020\TSTest\node_modules\uncss\node_modules\postcss-selector-parser\README.md121436361000000000 0
 103F:\jspang\typeScript_2020\TSTest\node_modules\@parcel\core\test\fixtures\duplicate-targets\package.json121436361000000000 0
 108F:\jspang\typeScript_2020\TSTest\node_modules\string.prototype.trimend\node_modules\es-abstract\2020\Call.js121436361000000000 0
@@ -7132,6 +7135,7 @@
 113F:\jspang\typeScript_2020\TSTest\node_modules\@parcel\transformer-posthtml\node_modules\posthtml-parser\README.md121436361000000000 0
 94F:\jspang\typeScript_2020\TSTest\node_modules\rxjs\_esm5\internal\testing\HotObservable.js.map121436361000000000 0
 113F:\jspang\typeScript_2020\TSTest\node_modules\string.prototype.trimstart\node_modules\es-abstract\2015\IsArray.js121436361000000000 0
+69F:\jspang\typeScript_2020\TSTest\node_modules\@types\jquery\README.md132469983410000000 0
 82F:\jspang\typeScript_2020\TSTest\node_modules\rxjs\add\operator\publishLast.js.map121436361000000000 0
 85F:\jspang\typeScript_2020\TSTest\node_modules\rxjs\_esm5\internal\util\isArrayLike.js121436361000000000 0
 88F:\jspang\typeScript_2020\TSTest\node_modules\rxjs\src\observable\ArrayLikeObservable.ts121436361000000000 0
@@ -7660,6 +7664,7 @@
 73F:\jspang\typeScript_2020\TSTest\node_modules\es-abstract\helpers\sign.js121436361000000000 0
 127F:\jspang\typeScript_2020\TSTest\node_modules\string.prototype.trimend\node_modules\es-abstract\2019\CreateListFromArrayLike.js121436361000000000 0
 74F:\jspang\typeScript_2020\TSTest\node_modules\@parcel\source-map\src\vlq.h121436361000000000 0
+67F:\jspang\typeScript_2020\TSTest\node_modules\@types\jquery\LICENSE132469983410000000 0
 113F:\jspang\typeScript_2020\TSTest\node_modules\string.prototype.trimend\node_modules\es-abstract\2020\IsInteger.js121436361000000000 0
 93F:\jspang\typeScript_2020\TSTest\node_modules\fast-json-stable-stringify\example\value_cmp.js121436361000000000 0
 124F:\jspang\typeScript_2020\TSTest\node_modules\string.prototype.trimend\node_modules\es-abstract\2020\IsNonNegativeInteger.js121436361000000000 0
@@ -12208,6 +12213,7 @@
 76F:\jspang\typeScript_2020\TSTest\node_modules\rxjs\operator\windowCount.d.ts121436361000000000 0
 75F:\jspang\typeScript_2020\TSTest\node_modules\rxjs\operator\windowTime.d.ts121436361000000000 0
 122F:\jspang\typeScript_2020\TSTest\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\@scope\pkg\package.json121436361000000000 0
+59F:\jspang\typeScript_2020\TSTest\node_modules\@types\jquery132483394141889212 1
 77F:\jspang\typeScript_2020\TSTest\node_modules\rxjs\operator\windowTime.js.map121436361000000000 0
 73F:\jspang\typeScript_2020\TSTest\node_modules\rxjs\add\operator\reduce.js121436361000000000 0
 77F:\jspang\typeScript_2020\TSTest\node_modules\rxjs\operator\windowToggle.d.ts121436361000000000 0
@@ -13510,6 +13516,7 @@
 85F:\jspang\typeScript_2020\TSTest\node_modules\resolve\test\resolver\quux\foo\index.js121436361000000000 0
 82F:\jspang\typeScript_2020\TSTest\node_modules\resolve\test\resolver\other_path\lib132483363364410466 1
 125F:\jspang\typeScript_2020\TSTest\node_modules\postcss-normalize-display-values\node_modules\postcss\docs\guidelines\runner.md121436361000000000 0
+64F:\jspang\typeScript_2020\TSTest\node_modules\@types\jquery\dist132483394141131590 1
 86F:\jspang\typeScript_2020\TSTest\node_modules\resolve\test\resolver\other_path\root.js121436361000000000 0
 65F:\jspang\typeScript_2020\TSTest\node_modules\request\lib\auth.js121436361000000000 0
 89F:\jspang\typeScript_2020\TSTest\node_modules\resolve\test\resolver\nested_symlinks\mylib132483363370944194 1
@@ -17227,6 +17234,7 @@
 63F:\jspang\typeScript_2020\TSTest\node_modules\highlight.js\docs132483363300858767 1
 59F:\jspang\typeScript_2020\TSTest\node_modules\lodash\now.js121436361000000000 0
 106F:\jspang\typeScript_2020\TSTest\node_modules\jsdom\lib\jsdom\living\generated\NonDocumentTypeChildNode.js121436361000000000 0
+71F:\jspang\typeScript_2020\TSTest\node_modules\@types\jquery\JQuery.d.ts132469983410000000 0
 92F:\jspang\typeScript_2020\TSTest\node_modules\core-js\modules\esnext.symbol.async-dispose.js121436361000000000 0
 104F:\jspang\typeScript_2020\TSTest\node_modules\object.assign\node_modules\es-abstract\2017\GetIterator.js121436361000000000 0
 111F:\jspang\typeScript_2020\TSTest\node_modules\object.assign\node_modules\es-abstract\2017\GetOwnPropertyKeys.js121436361000000000 0
@@ -19607,6 +19615,7 @@
 100F:\jspang\typeScript_2020\TSTest\node_modules\jsdom\lib\jsdom\living\generated\SVGGraphicsElement.js121436361000000000 0
 81F:\jspang\typeScript_2020\TSTest\node_modules\core-js\stable\string\trim-start.js121436361000000000 0
 95F:\jspang\typeScript_2020\TSTest\node_modules\jsdom\lib\jsdom\living\generated\SVGStringList.js121436361000000000 0
+72F:\jspang\typeScript_2020\TSTest\node_modules\@types\sizzle\package.json132483383173167959 0
 62F:\jspang\typeScript_2020\TSTest\node_modules\has\package.json132483363708582441 0
 95F:\jspang\typeScript_2020\TSTest\node_modules\jsdom\lib\jsdom\living\generated\SVGSVGElement.js121436361000000000 0
 74F:\jspang\typeScript_2020\TSTest\node_modules\es-abstract\2017\ToUint32.js121436361000000000 0
@@ -20386,6 +20395,7 @@
 87F:\jspang\typeScript_2020\TSTest\node_modules\finalhandler\node_modules\debug\.eslintrc131505605660000000 0
 88F:\jspang\typeScript_2020\TSTest\node_modules\finalhandler\node_modules\debug\.npmignore131419593830000000 0
 89F:\jspang\typeScript_2020\TSTest\node_modules\finalhandler\node_modules\debug\.travis.yml131505605660000000 0
+70F:\jspang\typeScript_2020\TSTest\node_modules\@types\jquery\index.d.ts132469983410000000 0
 92F:\jspang\typeScript_2020\TSTest\node_modules\finalhandler\node_modules\debug\component.json131505607290000000 0
 85F:\jspang\typeScript_2020\TSTest\node_modules\finalhandler\node_modules\debug\LICENSE131419593830000000 0
 86F:\jspang\typeScript_2020\TSTest\node_modules\finalhandler\node_modules\debug\Makefile131505605660000000 0
@@ -24364,6 +24374,7 @@
 78F:\jspang\typeScript_2020\TSTest\node_modules\ajv\lib\dot\_limitProperties.jst121436361000000000 0
 97F:\jspang\typeScript_2020\TSTest\node_modules\@parcel\optimizer-htmlnano\lib\HTMLNanoOptimizer.js121436361000000000 0
 70F:\jspang\typeScript_2020\TSTest\node_modules\ajv\lib\compile\async.js121436361000000000 0
+67F:\jspang\typeScript_2020\TSTest\node_modules\@types\sizzle\LICENSE131833326620000000 0
 78F:\jspang\typeScript_2020\TSTest\node_modules\ajv\lib\compile\error_classes.js121436361000000000 0
 72F:\jspang\typeScript_2020\TSTest\node_modules\ajv\lib\compile\resolve.js121436361000000000 0
 75F:\jspang\typeScript_2020\TSTest\node_modules\ajv\lib\compile\schema_obj.js121436361000000000 0
@@ -24404,6 +24415,7 @@
 54F:\jspang\typeScript_2020\TSTest\node_modules\abab\lib132483363356119515 1
 62F:\jspang\typeScript_2020\TSTest\node_modules\abab\lib\btoa.js121436361000000000 0
 54F:\jspang\typeScript_2020\TSTest\node_modules\@types\q132483363755744874 1
+70F:\jspang\typeScript_2020\TSTest\node_modules\@types\sizzle\index.d.ts131833326630000000 0
 62F:\jspang\typeScript_2020\TSTest\node_modules\@types\q\LICENSE132340574510000000 0
 67F:\jspang\typeScript_2020\TSTest\node_modules\@types\node\base.d.ts132482266900000000 0
 69F:\jspang\typeScript_2020\TSTest\node_modules\@types\node\buffer.d.ts132482266910000000 0
@@ -24437,6 +24449,11 @@
 83F:\jspang\typeScript_2020\TSTest\node_modules\@types\node\ts3.4\globals.global.d.ts132482266910000000 0
 74F:\jspang\typeScript_2020\TSTest\node_modules\@types\node\ts3.4\index.d.ts132482266910000000 0
 74F:\jspang\typeScript_2020\TSTest\node_modules\@types\node\fs\promises.d.ts132482266910000000 0
+77F:\jspang\typeScript_2020\TSTest\node_modules\@types\jquery\JQueryStatic.d.ts132469983410000000 0
+71F:\jspang\typeScript_2020\TSTest\node_modules\@types\jquery\legacy.d.ts132469983410000000 0
+103F:\jspang\typeScript_2020\TSTest\node_modules\@babel\runtime\helpers\classPrivateFieldDestructureSet.js121012626000000000 0
+72F:\jspang\typeScript_2020\TSTest\node_modules\@types\jquery\package.json132483394141588436 0
+81F:\jspang\typeScript_2020\TSTest\node_modules\@types\jquery\dist\jquery.slim.d.ts132469983410000000 0
 74F:\jspang\typeScript_2020\TSTest\node_modules\@types\http-proxy\index.d.ts132291928380000000 0
 76F:\jspang\typeScript_2020\TSTest\node_modules\@types\http-proxy\package.json132483363755454089 0
 69F:\jspang\typeScript_2020\TSTest\node_modules\@parcel\babel-ast-utils132483363605034877 1
@@ -25566,7 +25583,6 @@
 85F:\jspang\typeScript_2020\TSTest\node_modules\@babel\runtime\helpers\asyncIterator.js121012626000000000 0
 88F:\jspang\typeScript_2020\TSTest\node_modules\@babel\runtime\helpers\asyncToGenerator.js121012626000000000 0
 89F:\jspang\typeScript_2020\TSTest\node_modules\@babel\runtime\helpers\classNameTDZError.js121012626000000000 0
-103F:\jspang\typeScript_2020\TSTest\node_modules\@babel\runtime\helpers\classPrivateFieldDestructureSet.js121012626000000000 0
 92F:\jspang\typeScript_2020\TSTest\node_modules\@babel\runtime\helpers\classPrivateFieldGet.js121012626000000000 0
 97F:\jspang\typeScript_2020\TSTest\node_modules\@babel\runtime\helpers\classPrivateFieldLooseKey.js121012626000000000 0
 102F:\jspang\typeScript_2020\TSTest\node_modules\@babel\runtime\helpers\classStaticPrivateFieldSpecGet.js121012626000000000 0
@@ -25760,7 +25776,7 @@
 93F:\jspang\typeScript_2020\TSTest\node_modules\@babel\plugin-transform-computed-properties\lib132483362834378427 1
 99F:\jspang\typeScript_2020\TSTest\node_modules\@babel\plugin-transform-computed-properties\README.md121012626000000000 0
 85F:\jspang\typeScript_2020\TSTest\node_modules\@babel\plugin-transform-classes\LICENSE121012626000000000 0
-48F:\jspang\typeScript_2020\TSTest\dist\index.html132483370200590394 0
+48F:\jspang\typeScript_2020\TSTest\dist\index.html132483396707805091 0
 77F:\jspang\typeScript_2020\TSTest\node_modules\@babel\core\lib\config\index.js121012626000000000 0
 90F:\jspang\typeScript_2020\TSTest\node_modules\@babel\plugin-transform-classes\package.json132483363604859163 0
 87F:\jspang\typeScript_2020\TSTest\node_modules\@babel\plugin-transform-classes\README.md121012626000000000 0
@@ -26048,3 +26064,5 @@
 61F:\jspang\typeScript_2020\TSTest\node_modules\.bin\terser.ps1132483363766488257 0
 60F:\jspang\typeScript_2020\TSTest\node_modules\.bin\uncss.ps1132483363767426529 0
 59F:\jspang\typeScript_2020\TSTest\node_modules\.bin\uuid.cmd132483363766979635 0
+55F:\jspang\typeScript_2020\TSTest\dist\index.8d912a43.js132483394683879113 0
+59F:\jspang\typeScript_2020\TSTest\dist\index.8d912a43.js.map132483394683969332 0

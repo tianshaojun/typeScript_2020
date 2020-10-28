@@ -1,0 +1,6 @@
+// declare var $: any;npm i @types/jquery
+const teacher = "jspang1111";
+console.log(teacher);
+$(function () {
+  alert("jspang");
+});

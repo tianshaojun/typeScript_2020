@@ -1,0 +1,5 @@
+const teacher = "jspang1111";
+console.log(teacher);
+$(function () {
+  alert("jspang");
+});
