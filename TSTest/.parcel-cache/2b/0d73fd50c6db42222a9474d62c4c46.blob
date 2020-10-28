@@ -1,0 +1,2 @@
+const teacher = "jspang11";
+console.log(teacher);
